@@ -6,14 +6,28 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=BSIT+Student;Aspiring+Web+Developer;React+%7C+Node.js+%7C+MySQL;HTML+%7C+CSS+%7C+JavaScript;Always+Learning+New+Things" />
 
-<br/>
+</div>
 
-<a href="Your-LinkedIn-URL">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+---
 
-<a href="Your-Portfolio-URL">
-  <img src="https://img.shields.io/badge/Portfolio-Visit-181717?style=for-the-badge&logo=github&logoColor=white"/>
+## 🎬 Animation Showcase  
+
+<div align="center">
+
+<!-- OPTION 1: GIF (Auto-play animation) -->
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
+
+</div>
+
+---
+
+## 🎥 Demo Video  
+
+<div align="center">
+
+<!-- OPTION 2: YouTube Clickable Video -->
+<a href="https://www.youtube.com/watch?v=YOUR_VIDEO_ID">
+  <img src="https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg" width="500"/>
 </a>
 
 </div>
@@ -24,8 +38,8 @@
 
 - 🎓 BS Information Technology Student  
 - 💡 Interested in **Web Development**  
-- ⚡ Currently learning **React, Node.js, Express, MySQL**  
-- 🎨 Building interfaces using **HTML, CSS, JavaScript**  
+- ⚡ Learning **React, Node.js, Express, MySQL**  
+- 🎨 Using **HTML, CSS, JavaScript** for UI  
 - 🎯 Goal: Become a professional developer  
 
 ---
@@ -54,7 +68,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Buchi-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Buchi-dev&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Buchi-dev&theme=tokyonight&hide_border=true" height="160"/>
 
@@ -62,33 +76,7 @@
 
 ---
 
-## 🎮 Contribution Graph  
-
 <div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Buchi-dev&theme=tokyo-night&hide_border=true" />
-
-</div>
-
----
-
-## 🚀 What I'm Working On  
-
-- 📚 Improving my React and JavaScript skills  
-- 🛠 Building simple full-stack applications  
-- 🎨 Practicing UI design using HTML & CSS  
-
----
-
-## ✨ Fun Fact  
-
-- 💻 I enjoy creating systems and solving problems through code  
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:181717&height=120&section=footer"/>
 
 ⭐ Thanks for visiting my profile!  
 
