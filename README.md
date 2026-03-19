@@ -1,90 +1,65 @@
-# 🚀 Jerome Dwight Angelo Bautista - Developer Portfolio  
+# 🚀 Jerome Dwight Angelo Bautista  
 
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:181717&height=200&section=header&text=Full%20Stack%20Developer&fontSize=35&fontColor=ffffff" />
+
 <a href="Your-LinkedIn-URL">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
 <a href="Your-Portfolio-URL">
-  <img src="https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Portfolio-Visit-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome!" />
 
 </div>
 
 ---
 
 ## 👨‍💻 About Me  
-🎓 BS Information Technology Student  
-💡 Passionate about building **simple, functional systems**  
-🛠 Focused on **C#, Java, and system development**  
-📌 Currently working on: **KwartoKeeper (Capstone Project)**  
+
+- 🎓 BS Information Technology Student  
+- 💡 Passionate about building **full-stack web applications**  
+- 🛠 Focused on **React, Node.js, Express, and MySQL**  
+- 🚀 Currently developing **real-world systems (Capstone Project)**  
 
 ---
 
-## 💻 Tech Stack  
+## ⚡ Tech Stack  
 
-### 🔥 Programming Languages  
-- C# (Primary Language)  
-- Java  
-- Basic Python  
-- C  
+<div align="center">
 
----
+### 🧠 Frontend  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" />
 
-### ⚡ Development Focus  
-- Object-Oriented Programming (OOP)  
-- Data Structures & Algorithms  
-- CRUD Systems  
-- Menu-driven Applications  
-- Basic System Design  
+### 🔧 Backend  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="60" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="60" />
 
----
+### 🗄 Database  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60" />
 
-### 🖥️ Frontend (Basic)  
-- HTML  
-- CSS  
-- JavaScript  
+### 🛠 Tools  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="60" />
+
+</div>
 
 ---
 
-### 🛠 Tools & Technologies  
-- Visual Studio  
-- Git & GitHub  
-- MySQL  
-- Basic Firebase  
-
----
-
-## 📂 Featured Projects  
+## 🔥 Featured Project  
 
 ### 🏠 KwartoKeeper  
-An **Occupancy Monitoring and Tenant Management System**  
-- Manages tenant records  
-- Tracks room availability  
-- Handles rent and payment monitoring  
-- Designed for rental property owners  
+**Occupancy Monitoring and Tenant Management System**  
 
----
+✨ Features:  
+- Tenant Information Management  
+- Room Occupancy Tracking  
+- Payment Monitoring  
+- Admin Dashboard  
 
-### 💰 Payslip System (C#)  
-- Computes salary, deductions, and net pay  
-- Uses OOP principles  
-
----
-
-### 🎲 Lottery System (DSA Project)  
-- User inputs numbers and bet  
-- Randomized multiplier system  
-- Prize computation  
-
----
-
-### 📊 Student Records System  
-- Uses arrays and basic data structures  
-- Computes averages and remarks  
+🛠 Tech Used:  
+React • Node.js • Express • MySQL  
 
 ---
 
@@ -92,26 +67,27 @@ An **Occupancy Monitoring and Tenant Management System**
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Buchi-dev&show_icons=true&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=Buchi-dev&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Buchi-dev&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Buchi-dev&theme=tokyonight&hide_border=true" height="160"/>
 
 </div>
 
 ---
 
 ## 🎯 Goals  
-- Improve full-stack development skills  
-- Learn modern frameworks step-by-step  
-- Build real-world systems for clients  
-- Become a professional software engineer  
+
+- 🚀 Become a skilled Full-Stack Developer  
+- 📈 Build scalable and real-world applications  
+- 💼 Land a developer role / internship  
+- 🧠 Continuously improve problem-solving skills  
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:181717&height=120&section=footer"/>
 
-💙 Made by Jerome Dwight Angelo Bautista  
+⭐ From Jerome Dwight Angelo Bautista  
 
 </div>
