@@ -4,7 +4,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:181717&height=200&section=header&text=Jerome%20Dwight%20Angelo%20P.%20Bautista&fontSize=30&fontColor=ffffff&animation=fadeIn" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=BSIT+Student;Aspiring+Web+Developer;React+%7C+Node.js+%7C+MySQL;Always+Learning+New+Things" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=BSIT+Student;Aspiring+Web+Developer;React+%7C+Node.js+%7C+MySQL;HTML+%7C+CSS+%7C+JavaScript;Always+Learning+New+Things" />
 
 <br/>
 
@@ -25,7 +25,7 @@
 - 🎓 BS Information Technology Student  
 - 💡 Interested in **Web Development**  
 - ⚡ Currently learning **React, Node.js, Express, MySQL**  
-- 🧠 Building projects to improve my skills  
+- 🎨 Building interfaces using **HTML, CSS, JavaScript**  
 - 🎯 Goal: Become a professional developer  
 
 ---
@@ -35,7 +35,7 @@
 <div align="center">
 
 ### 🎨 Frontend  
-<img src="https://skillicons.dev/icons?i=react,js,html,css" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react" />
 
 ### 🔧 Backend  
 <img src="https://skillicons.dev/icons?i=nodejs,express" />
@@ -74,9 +74,9 @@
 
 ## 🚀 What I'm Working On  
 
-- 📚 Improving my JavaScript and React skills  
+- 📚 Improving my React and JavaScript skills  
 - 🛠 Building simple full-stack applications  
-- 💡 Learning best practices in web development  
+- 🎨 Practicing UI design using HTML & CSS  
 
 ---
 
