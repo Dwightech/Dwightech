@@ -23,7 +23,7 @@
 
 ---
 
-## 🎬 Project Animation  
+##
 
 <div align="center">
 
